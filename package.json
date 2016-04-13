@@ -1,5 +1,5 @@
 {
-  "name": "process-pool",
+  "name": "@strate/process-pool",
   "version": "0.3.4",
   "description": "A process pool for efficient delegation of work over multiple CPU cores.",
   "main": "./lib/ProcessPool",
